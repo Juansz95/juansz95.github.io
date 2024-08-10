@@ -1,3 +1,6 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Welcome to my website!
+logo: /assets/img/logo.png
+description: This is my personal website, where you can find  all the information about my professional background
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
